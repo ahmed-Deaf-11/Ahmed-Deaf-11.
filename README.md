@@ -1,15 +1,15 @@
-# 🧠 SignSpeak: Real-Time ASL Recognition System
+# 🧠 Ahmed-Deaf-11: Real-Time ASL Recognition Ahmed-Deaf-11
 
 ![Banner](./SignSpeak.png)
 
-[![Release](https://img.shields.io/github/v/release/CodeWithInferno/SignSpeak)](https://github.com/CodeWithInferno/SignSpeak/releases)
+[![Release](https://img.shields.io/github/v/release/CodeWithInferno/Ahmed-Deaf-11)](https://github.com/CodeWithInferno/Ahmed-Deaf-11/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 
 ## 🚀 Overview
 
-SignSpeak is a cross-platform American Sign Language (ASL) recognition platform that:
+Ahmed-Deaf-11 is a cross-platform American Sign Language (ASL) recognition platform that:
 
 * 🕒 **Detects ASL signs in real-time** via your device camera
 * 📱 **Runs on mobile devices** (iOS & Android) using React Native + Expo
@@ -22,7 +22,7 @@ SignSpeak is a cross-platform American Sign Language (ASL) recognition platform 
 
 ## 📋 Table of Contents
 
-- [🧠 SignSpeak: Real-Time ASL Recognition System](#-signspeak-real-time-asl-recognition-system)
+- [🧠 Ahmed-Deaf-11: Real-Time ASL Recognition Ahmed-Deaf-11](#-Ahmed-Deaf-11)-time-asl-recognition-Ahmed-Deaf-11)
   - [🚀 Overview](#-overview)
   - [📋 Table of Contents](#-table-of-contents)
   - [🔥 Features](#-features)
@@ -56,7 +56,7 @@ SignSpeak is a cross-platform American Sign Language (ASL) recognition platform 
 ## 🗂 Project Structure
 
 ```
-SignSpeak/
+Ahmed-Deaf-11/
 ├── UI_expo/           # React Native (Expo) mobile app
 │   ├── components/    # UI & camera overlay
 │   ├── services/      # API wrappers & data handling
@@ -94,8 +94,8 @@ SignSpeak/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/CodeWithInferno/SignSpeak.git
-   cd SignSpeak
+   git clone https://github.com/CodeWithInferno/Ahmed-Deaf-11.git
+   cd Ahmed-Deaf-11
    ```
 
 2. **Backend**
@@ -140,7 +140,7 @@ SignSpeak/
 
 ## 🖼️ Assets
 
-* **Banner**: `./SignSpeak.png`
+* **Banner**: `./Ahmed-Deaf-11.png`
 
 * **ASL Alphabet Chart**:
 
@@ -189,9 +189,9 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 
 ## 📞 Contact
 
-* GitHub Issues: [codewithinferno/signspeak](https://github.com/CodeWithInferno/SignSpeak/issues)
-* Discussions: [GitHub Discussions](https://github.com/CodeWithInferno/SignSpeak/discussions)
-* Email: [raahildesai8@gmail.com](mailto:raahildesai8@gmail.com)
+* GitHub Issues: [codewithinferno/Ahmed-Deaf-11](https://github.com/CodeWithInferno/Ahmed-Deaf-11/issues)
+* Discussions: [GitHub Discussions](https://github.com/CodeWithInferno/Ahmed-Deaf-11/discussions)
+* Email: [Ahmed01095956350@gmail.com](mailto:Ahmed01095956350@gmail.com)
 
 ---
 
