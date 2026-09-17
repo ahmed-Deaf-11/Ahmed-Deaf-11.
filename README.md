@@ -1,15 +1,15 @@
-# 🧠 SignSpeak: Real-Time ASL Recognition System
+# 🧠 Ahmed-Deaf-11 ASL: Real-Time ASL Recognition System
 
-![Banner](./SignSpeak.png)
+![Banner](./Ahmed-Deaf-11-ASL.png)
 
-[![Release](https://img.shields.io/github/v/release/CodeWithInferno/SignSpeak)](https://github.com/CodeWithInferno/SignSpeak/releases)
+[![Release](https://img.shields.io/github/v/release/CodeWithInferno/Ahmed-Deaf-11-ASL)](https://github.com/CodeWithInferno/Ahmed-Deaf-11-ASL/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ---
 
 ## 🚀 Overview
 
-SignSpeak is a cross-platform American Sign Language (ASL) recognition platform that:
+Ahmed-Deaf-11 ASL is a cross-platform American Sign Language (ASL) recognition platform that:
 
 * 🕒 **Detects ASL signs in real-time** via your device camera
 * 📱 **Runs on mobile devices** (iOS & Android) using React Native + Expo
@@ -22,7 +22,7 @@ SignSpeak is a cross-platform American Sign Language (ASL) recognition platform 
 
 ## 📋 Table of Contents
 
-- [🧠 SignSpeak: Real-Time ASL Recognition System](#-signspeak-real-time-asl-recognition-system)
+- [🧠 Ahmed-Deaf-11 ASL: Real-Time ASL Recognition System](#-Ahmed-Deaf-11-ASL-real-time-asl-recognition-system)
   - [🚀 Overview](#-overview)
   - [📋 Table of Contents](#-table-of-contents)
   - [🔥 Features](#-features)
@@ -56,7 +56,7 @@ SignSpeak is a cross-platform American Sign Language (ASL) recognition platform 
 ## 🗂 Project Structure
 
 ```
-SignSpeak/
+Ahmed-Deaf-11-ASL/
 ├── UI_expo/           # React Native (Expo) mobile app
 │   ├── components/    # UI & camera overlay
 │   ├── services/      # API wrappers & data handling
@@ -71,7 +71,7 @@ SignSpeak/
 ├── deploy/            # Docker & Nginx configs
 │   └── docker-compose.yml
 ├── assets/
-│   ├── SignSpeak.png       # README banner
+│   ├── Ahmed-Deag-11-ASL.png       # README banner
 │   ├── ASL Alphabet.jpg    # ASL chart reference
 │   └── Model_proof.mp4     # Demo video
 ├── docs/              # (Optional) Extended documentation
@@ -94,8 +94,8 @@ SignSpeak/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/CodeWithInferno/SignSpeak.git
-   cd SignSpeak
+   git clone https://github.com/CodeWithInferno/Ahmed-Deaf-11-ASL.git
+   cd Ahmed-Deaf-11 ASL
    ```
 
 2. **Backend**
@@ -140,7 +140,7 @@ SignSpeak/
 
 ## 🖼️ Assets
 
-* **Banner**: `./SignSpeak.png`
+* **Banner**: `./Ahmed-Deaf-11-ASL.png`
 
 * **ASL Alphabet Chart**:
 
