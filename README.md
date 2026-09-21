@@ -1,6 +1,6 @@
 # 🧠 Ahmed-Deaf-11: Real-Time ASL Recognition Ahmed-Deaf-11
 
-![Banner](./SignSpeak.png)
+![Banner](./Ahmed-Deaf-11-ASL.png)
 
 [![Release](https://img.shields.io/github/v/release/CodeWithInferno/Ahmed-Deaf-11)](https://github.com/CodeWithInferno/Ahmed-Deaf-11/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
@@ -186,8 +186,8 @@ For major changes, open an issue first to discuss what you’d like to change.
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
-
-## 📞 Contact
+*WhatsApp +201095956350
+## 📞 Contact WhatsApp +201095956350
 
 * GitHub Issues: [codewithinferno/Ahmed-Deaf-11](https://github.com/CodeWithInferno/Ahmed-Deaf-11/issues)
 * Discussions: [GitHub Discussions](https://github.com/CodeWithInferno/Ahmed-Deaf-11/discussions)
